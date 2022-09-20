@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """
-Write an empty class Rectangle that defines a rectangle
+New class Rectangle
 """
 
 
 class Rectangle:
-    """ empty class Rectangle """
+    """ Rectangle class empty """
     pass
